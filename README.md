@@ -49,7 +49,6 @@ ChatSphere/
 │   └── index.html
 │── app.py
 │── README.md
-│── .gitignore
 ```
 
 ## Technologies Used
